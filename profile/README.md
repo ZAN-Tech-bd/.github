@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ZAN-Tech-bd/.github/main/profile/assets/banner.svg" alt="ZAN Tech - Electronics and Robotics, Bangladesh" width="100%">
@@ -90,3 +91,17 @@ For orders, workshops, partnerships or collaboration:
 **ZAN Tech** &nbsp;|&nbsp; Building the next generation of makers and engineers in Bangladesh.
 
 </div>
+=======
+## Hi there 👋
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+>>>>>>> 5355f668718b3fd87c78ef7fc0cf3020b5508595
