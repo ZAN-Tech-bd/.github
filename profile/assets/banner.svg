@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="ZAN Tech - Electronics and Robotics, Bangladesh">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#12233f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- circuit traces -->
+  <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M760 70H900L940 110H1060"/>
+    <path d="M820 160H980L1010 190H1140"/>
+    <path d="M700 250H880L920 210H1100"/>
+    <path d="M900 70V30H1000"/>
+  </g>
+  <g fill="#0b1220" stroke="url(#accent)" stroke-width="2">
+    <circle cx="1060" cy="110" r="6"/>
+    <circle cx="1140" cy="190" r="6"/>
+    <circle cx="1100" cy="210" r="6"/>
+    <circle cx="1000" cy="30" r="6"/>
+    <circle cx="760" cy="70" r="6"/>
+    <circle cx="820" cy="160" r="6"/>
+    <circle cx="700" cy="250" r="6"/>
+  </g>
+
+  <!-- chip -->
+  <g transform="translate(960 120)">
+    <rect x="0" y="0" width="90" height="90" rx="8" fill="#0b1220" stroke="url(#accent)" stroke-width="2.5"/>
+    <rect x="18" y="18" width="54" height="54" rx="4" fill="none" stroke="url(#accent)" stroke-opacity="0.6"/>
+    <g stroke="url(#accent)" stroke-width="3" stroke-linecap="round">
+      <path d="M20 -10V0M45 -10V0M70 -10V0M20 90V100M45 90V100M70 90V100"/>
+      <path d="M-10 20H0M-10 45H0M-10 70H0M90 20H100M90 45H100M90 70H100"/>
+    </g>
+    <text x="45" y="53" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">ZAN</text>
+  </g>
+
+  <!-- text -->
+  <rect x="70" y="92" width="64" height="4" rx="2" fill="url(#accent)"/>
+  <text x="70" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#f8fafc" letter-spacing="1">ZAN Tech</text>
+  <text x="72" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#94a3b8" letter-spacing="3">ELECTRONICS  |  ROBOTICS  |  EDUCATION</text>
+  <text x="72" y="256" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#64748b">Bangladesh  -  zantechbd.com</text>
+</svg>
