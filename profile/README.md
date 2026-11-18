@@ -1,17 +1,16 @@
-<<<<<<< HEAD
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ZAN-Tech-bd/.github/main/profile/assets/banner.svg" alt="ZAN Tech - Electronics and Robotics, Bangladesh" width="100%">
+<img src="https://raw.githubusercontent.com/ZAN-Tech-bd/.github/main/profile/assets/banner.svg" alt="ZAN Tech - Robotics, AI, IoT and R&D, Bangladesh" width="100%">
 
 <br>
 
-**Your premier destination for electronics and robotics in Bangladesh.**
+**Empowering the next generation through robotics, AI and hands-on technical education.**
 
-We supply components, teach practical engineering, and publish the open source code behind our workshops and builds.
+ZAN Tech is a technology company in Bangladesh that teaches, supplies and builds. We run structured courses and free workshops, supply robotics components, and provide research and development services to businesses.
 
 <br>
 
-[Website](https://zantechbd.com) &nbsp;|&nbsp; [Online Store](https://store.zantechbd.com) &nbsp;|&nbsp; [YouTube](https://www.youtube.com/@ZANTechBD) &nbsp;|&nbsp; [Facebook](https://www.facebook.com/ZanTechBD) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/company/zantechbd) &nbsp;|&nbsp; [Email](mailto:zantechbd@gmail.com)
+[Website](https://zantechbd.com) &nbsp;|&nbsp; [Store](https://store.zantechbd.com) &nbsp;|&nbsp; [Courses](https://zantechbd.com/courses) &nbsp;|&nbsp; [Bootcamps](https://zantechbd.com/bootcamps) &nbsp;|&nbsp; [Project Uddipon](https://projectuddipon.zantechbd.com/) &nbsp;|&nbsp; [Contact](https://zantechbd.com/contact)
 
 </div>
 
@@ -19,21 +18,60 @@ We supply components, teach practical engineering, and publish the open source c
 
 ## About ZAN Tech
 
-ZAN Tech is a Bangladesh-based electronics and robotics company. We help students, hobbyists and young engineers move from curiosity to working hardware, by combining a dependable source of components with hands-on training and fully documented example projects.
+ZAN Tech fosters innovation and technical skills across Bangladesh. We believe robotics, programming and AI/ML should be accessible to everyone, from young students to established businesses, and we work to close the gap between education and industry.
 
-This GitHub organization is where that work is shared in the open: the firmware, scripts and teaching material we use in our workshops, courses and competition builds.
+Our work reaches four groups:
+
+| Audience | What we offer |
+|---|---|
+| **Students and educators** | Free, hands-on workshops in robotics, programming and AI/ML, delivered in partnership with schools, colleges and universities. |
+| **Innovators and hobbyists** | A curated range of robotics equipment, from Arduino Uno and ESP modules to motor drivers and sensors, through [store.zantechbd.com](https://store.zantechbd.com). |
+| **Future creators** | Educational kits and tools under development to make learning robotics and programming simple and enjoyable for students and children. |
+| **Business and industry** | Research and development services: designing, building and prototyping solutions in collaboration with other companies. |
 
 <br>
 
-## What We Do
+## Education
 
-| | |
+**Courses.** Structured, project-based programmes for ages 10 to 17.
+
+| Programme | Format |
 |---|---|
-| **Electronics and Robotics Store** | Microcontrollers, sensors, motor drivers, robot kits and related components, available through [store.zantechbd.com](https://store.zantechbd.com). |
-| **Workshops and Training** | Practical, project-based sessions in robotics, embedded systems, IoT and Raspberry Pi, with code and materials published here. |
-| **Robotics Kits and Builds** | Line-following, RC, soccer and battle robots, designed so that learners can build, understand and extend them. |
-| **Competition Mentoring** | Preparation and code for robotics competitions, including World Robot Olympiad (WRO) teams. |
-| **Open Source Projects** | Reference implementations for IoT, computer vision, access control and motor control, free to study and reuse. |
+| [Innovator Track: Robotics, IoT and Web Dashboards](https://zantechbd.com/course/innovator-track-robotics-iot-web-dashboards) | Six months, in person at the Uttara campus. Students build 18 projects with their own robotics kit: robots, IoT devices and live web dashboards. |
+| [CodeZoo: From Python to AI](https://zantechbd.com/course/codezoo-from-python-to-ai-4-month-program) | Four months, live online. 35 hands-on classes that take students from a first line of code to games and desktop applications. |
+
+**Bootcamps and workshops.** Short, intensive programmes in robotics, Python, AI on the Raspberry Pi and research paper writing. See the [bootcamps](https://zantechbd.com/bootcamps) and [workshops](https://zantechbd.com/workshops) pages for upcoming sessions.
+
+<br>
+
+## Project Uddipon
+
+[Project Uddipon](https://projectuddipon.zantechbd.com/) is ZAN Tech's nationwide STEM initiative. Our engineers bring free robotics, programming, AI and IoT workshops, including every kit and laptop, to schools, colleges and universities, at no cost to students or institutions.
+
+| Reach | Impact |
+|---|---|
+| 5,000+ students reached | 15+ institutions visited |
+| 30% to 50% girls in sessions | Goal: 100,000+ students across all 64 districts |
+
+Workshops are followed by STEM club setup and mentorship, and by teacher training so that hands-on learning continues after we leave. Institutions can [request a free workshop](https://projectuddipon.zantechbd.com/).
+
+<br>
+
+## Student Achievements
+
+Teams mentored by ZAN Tech have won 12 awards, including 4 gold medals. Selected results:
+
+| Result | Team | Competition |
+|---|---|---|
+| Gold Medal, International | Vision Aid | World Youth STEM Invention Innovation (WYSII) 2026, Malaysia |
+| Gold Medal, National | Quantum Physics | World Robot Olympiad Bangladesh 2026, Future Innovators, Elementary |
+| Gold Medal, National | Cybernetic Apex | World Robot Olympiad Bangladesh 2026, Future Innovators, Junior |
+| Gold Medal, National | Demon-71 | 8th WICE 2026, Bangladesh National Round |
+| Champion, National | Androflight | BUET Robo Carnival 2026, Project Showcasing, Senior |
+| 1st Position, National | SkyFlex | Youth Acceleration Program Final Round, ZUMS |
+| 1st Position, National | Creativity | IIUC Tech Fest 2025, Project Showcase |
+
+Read more on the [achievements page](https://zantechbd.com/achievements).
 
 <br>
 
@@ -41,15 +79,17 @@ This GitHub organization is where that work is shared in the open: the firmware,
 
 | Area | Tools and platforms |
 |---|---|
-| **Embedded and Firmware** | Arduino, ESP32, C and C++ |
-| **Single-Board Computing** | Raspberry Pi, Python, computer vision |
-| **IoT and Cloud** | ThingSpeak, Blynk, Wi-Fi provisioning |
-| **Motion and Control** | L298N motor drivers, RC systems, robotic arms |
-| **Education Tooling** | Python, HTML and CSS for course material and certificate generation |
+| **Embedded systems** | Arduino, ESP32, C and C++ |
+| **Single-board computing and AI** | Raspberry Pi, Python, computer vision, AI/ML |
+| **IoT and cloud** | ThingSpeak, Blynk, sensor data and web dashboards |
+| **Motion and control** | Motor drivers, RC systems, robotic arms, line-following and combat robots |
+| **Education tooling** | Python, HTML and CSS for course material and certificate generation |
 
 <br>
 
-## Featured Repositories
+## Open Source on GitHub
+
+This organization hosts the code and materials behind our workshops and builds.
 
 | Repository | Language | Summary |
 |---|---|---|
@@ -62,46 +102,27 @@ This GitHub organization is where that work is shared in the open: the firmware,
 | [Thingspeak_ESP32_Sample](https://github.com/ZAN-Tech-bd/Thingspeak_ESP32_Sample) | C++ | Sending ESP32 sensor data to the ThingSpeak cloud platform. |
 | [Zantech_workshop_certificate_creator](https://github.com/ZAN-Tech-bd/Zantech_workshop_certificate_creator) | CSS | A tool for generating workshop participation certificates. |
 
-Browse everything on the [repositories page](https://github.com/orgs/ZAN-Tech-bd/repositories).
+Browse all projects on the [repositories page](https://github.com/orgs/ZAN-Tech-bd/repositories). Check each repository for its license before reuse, and feel free to open an issue or pull request with improvements.
 
 <br>
 
-## Using Our Code
+## Contact
 
-1. Open the repository for the project you are interested in and read its README for wiring and setup notes.
-2. Clone it with `git clone`, then follow the instructions for your board or platform.
-3. Found a problem or have an improvement? Open an issue or a pull request. Clear, small contributions are welcome.
-
-Unless a repository states otherwise, projects are shared for learning. Check each repository for its license before reuse.
-
-<br>
-
-## Get in Touch
-
-For orders, workshops, partnerships or collaboration:
-
-- Email: [zantechbd@gmail.com](mailto:zantechbd@gmail.com)
-- Website: [zantechbd.com](https://zantechbd.com)
-- Store: [store.zantechbd.com](https://store.zantechbd.com)
-
-<br>
+| | |
+|---|---|
+| **Email** | [zantechbd@gmail.com](mailto:zantechbd@gmail.com) |
+| **Phone and WhatsApp** | [+880 1894634149](https://wa.me/+8801894634149) |
+| **Address** | House 48, Road 9/C, Sector 5, Uttara, Dhaka 1230, Bangladesh |
+| **Hours** | Saturday to Thursday, 10:00 AM to 6:00 PM |
 
 <div align="center">
 
-**ZAN Tech** &nbsp;|&nbsp; Building the next generation of makers and engineers in Bangladesh.
+<br>
+
+[Website](https://zantechbd.com) &nbsp;|&nbsp; [Store](https://store.zantechbd.com) &nbsp;|&nbsp; [Facebook](https://facebook.com/ZantechBD) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/company/zantechbd) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/zantechbd/) &nbsp;|&nbsp; [YouTube](https://www.youtube.com/@ZANTechBD) &nbsp;|&nbsp; [TikTok](https://www.tiktok.com/@zantechbd)
+
+<br>
+
+**ZAN Tech** &nbsp;|&nbsp; Bridging the gap between education and industry through innovation.
 
 </div>
-=======
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
->>>>>>> 5355f668718b3fd87c78ef7fc0cf3020b5508595
